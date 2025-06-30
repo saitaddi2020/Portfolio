@@ -1,5 +1,3 @@
-# Portfolio
-
 # 💼 Personal Portfolio Website
 
 Welcome to my **Personal Portfolio Website**, a fully responsive, interactive, and visually appealing web project that showcases my skills, projects, and background. This project is built using **HTML**, **CSS**, and **JavaScript**, and it's designed to reflect my personality and capabilities as a Full Stack Developer.
